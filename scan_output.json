@@ -1,0 +1,509 @@
+{
+ "when": "2026-10-29T00:00:04.931Z",
+ "results": [
+  {
+   "team": "jfj-asa",
+   "addr": "0x6978aF9863fE4c36f49b3c5623Fc2263a82F3970",
+   "flags": [],
+   "codeSize": 8397,
+   "codeHash": "0x2556b24038b0e84cc9d36b120b4b001450ad6bf82ab87e17090064d4bfa0a293",
+   "eth": "718469331953674672",
+   "tokenBals": {
+    "ASA": "139184785700007833946",
+    "HAW": "0",
+    "KOR": "0"
+   },
+   "pair": "ASA",
+   "tok": "139184785700007833946",
+   "estSwapForEth": "51616109636616",
+   "estSwapForTok": "1910647155546404932",
+   "estEthToProvide": "51619818095795",
+   "estTokToProvide": "1937240457035710522",
+   "priceEthPerTok": 0.005161981809579596
+  },
+  {
+   "team": "jfj-haw",
+   "addr": "0xE8C9FDf67d0929385EcA42105361B50C80B49D45",
+   "flags": [],
+   "codeSize": 7959,
+   "codeHash": "0x61e9ebc4414a9b67e01ce8aad97e05a21292d3ee77bd654cb644adfb0da79189",
+   "eth": "2597635535152838",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "384965475898127653",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "384965475898127653",
+   "estSwapForEth": "65768673306090",
+   "estSwapForTok": "305585500409110799",
+   "estEthToProvide": "67477103734887",
+   "estTokToProvide": "1481984176334719347",
+   "priceEthPerTok": 0.006747710373488772
+  },
+  {
+   "team": "jfj-kor",
+   "addr": "0xa153865001e2793e6E9092418ED68A30594A88d5",
+   "flags": [],
+   "codeSize": 7959,
+   "codeHash": "0x933edbf02878d9a824317ae879bd3f5c2116b40211801f8570a085b75b843f54",
+   "eth": "2519964076242386",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "396831053834361726"
+   },
+   "pair": "KOR",
+   "tok": "396831053834361726",
+   "estSwapForEth": "61941291169685",
+   "estSwapForTok": "316958620182768552",
+   "estEthToProvide": "63502189455521",
+   "estTokToProvide": "1574748852872901107",
+   "priceEthPerTok": 0.006350218945552142
+  },
+  {
+   "team": "asa-A",
+   "addr": "0x6978aF9863fE4c36f49b3c5623Fc2263a82F3970",
+   "flags": [],
+   "codeSize": 8397,
+   "codeHash": "0x2556b24038b0e84cc9d36b120b4b001450ad6bf82ab87e17090064d4bfa0a293",
+   "eth": "718469331953674672",
+   "tokenBals": {
+    "ASA": "139184785700007833946",
+    "HAW": "0",
+    "KOR": "0"
+   },
+   "pair": "ASA",
+   "tok": "139184785700007833946",
+   "estSwapForEth": "51616109636616",
+   "estSwapForTok": "1910647155546404932",
+   "estEthToProvide": "51619818095795",
+   "estTokToProvide": "1937240457035710522",
+   "priceEthPerTok": 0.005161981809579596
+  },
+  {
+   "team": "asa-B",
+   "addr": "0xc207b4d9200F70C8C4dE9483276feD456Ee123dB",
+   "flags": [],
+   "codeSize": 7932,
+   "codeHash": "0x993b5a1cfd6899b042bf121c3e683611c7662239c9124bef27d77e8820e7850a",
+   "eth": "718469331953674677",
+   "tokenBals": {
+    "ASA": "139184785700007832907",
+    "HAW": "0",
+    "KOR": "0"
+   },
+   "pair": "ASA",
+   "tok": "139184785700007832907",
+   "estSwapForEth": "51616109636615",
+   "estSwapForTok": "1910647155546404835",
+   "estEthToProvide": "51619818095795",
+   "estTokToProvide": "1937240457035710494",
+   "priceEthPerTok": 0.005161981809579596
+  },
+  {
+   "team": "asa-C",
+   "addr": "0x28bAa9eaB6fD97860Cfb1c96993b7BF481FBa4c0",
+   "flags": [],
+   "codeSize": 8367,
+   "codeHash": "0x7dae7b01579b44db5dd70615b36672275290f8097415ce4a0b685c15296f593f",
+   "eth": "718469368173008350",
+   "tokenBals": {
+    "ASA": "139184778683452334705",
+    "HAW": "0",
+    "KOR": "0"
+   },
+   "pair": "ASA",
+   "tok": "139184778683452334705",
+   "estSwapForEth": "51616114840550",
+   "estSwapForTok": "1910646964230300137",
+   "estEthToProvide": "51619823300292",
+   "estTokToProvide": "1937240261716160744",
+   "priceEthPerTok": 0.005161982330029218
+  },
+  {
+   "team": "asa-D",
+   "addr": "0x311E27ED45d1cbfCbda29cAee281BD26395DA0D4",
+   "flags": [],
+   "codeSize": 7972,
+   "codeHash": "0xe594d7ad82221875d49b62969544715ebc3b451737fdff26f107f44b3c355fed",
+   "eth": "454399926497758939",
+   "tokenBals": {
+    "ASA": "88028183253232274738",
+    "HAW": "0",
+    "KOR": "0"
+   },
+   "pair": "ASA",
+   "tok": "88028183253232274738",
+   "estSwapForEth": "51613959955390",
+   "estSwapForTok": "1895525348530757650",
+   "estEthToProvide": "51619823300292",
+   "estTokToProvide": "1937240261716160777",
+   "priceEthPerTok": 0.005161982330029218
+  },
+  {
+   "team": "asa-E",
+   "addr": "0x8138F200eD6d7074B778Abe37EB58F415dEAAD0E",
+   "flags": [],
+   "codeSize": 9263,
+   "codeHash": "0x76168d62c65e3b841f3c10c1169ef3fae65252c3f1e959ae5b842b0c15d80d8c",
+   "eth": "71847005137388997",
+   "tokenBals": {
+    "ASA": "13918464633115271219",
+    "HAW": "0",
+    "KOR": "0"
+   },
+   "pair": "ASA",
+   "tok": "13918464633115271219",
+   "estSwapForEth": "51582860731521",
+   "estSwapForTok": "1700546600300356995",
+   "estEthToProvide": "51619921472120",
+   "estTokToProvide": "1937236577432806306",
+   "priceEthPerTok": 0.005161992147212001
+  },
+  {
+   "team": "asa-F",
+   "addr": "0x592AD2C91263c8b602A1916e68dBB7B4DDd40a1B",
+   "flags": [],
+   "codeSize": 7959,
+   "codeHash": "0x5e4452e3ee6c9b0555ae2d7858edd7dd749f9c9a4c49d1d08cbf8eb544471e4b",
+   "eth": "22720017771923077",
+   "tokenBals": {
+    "ASA": "4401405007859540915",
+    "HAW": "0",
+    "KOR": "0"
+   },
+   "pair": "ASA",
+   "tok": "4401405007859540915",
+   "estSwapForEth": "51502906061548",
+   "estSwapForTok": "1345171949031265453",
+   "estEthToProvide": "51619920755650",
+   "estTokToProvide": "1937236604321104542",
+   "priceEthPerTok": 0.005161992075565005
+  },
+  {
+   "team": "haw-A",
+   "addr": "0x1aF015a9d6D94DD0B45Da149941A271d38978a2D",
+   "flags": [],
+   "codeSize": 7932,
+   "codeHash": "0x993b5a1cfd6899b042bf121c3e683611c7662239c9124bef27d77e8820e7850a",
+   "eth": "796883941700744400",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "125488787974037532479"
+   },
+   "pair": "KOR",
+   "tok": "125488787974037532479",
+   "estSwapForEth": "63497341652862",
+   "estSwapForTok": "1555227232674046428",
+   "estEthToProvide": "63502401654051",
+   "estTokToProvide": "1574743590719294683",
+   "priceEthPerTok": 0.006350240165405154
+  },
+  {
+   "team": "haw-B",
+   "addr": "0x351763C482658Fe276fE576D74C4d676C9055163",
+   "flags": [],
+   "codeSize": 8397,
+   "codeHash": "0xeb03f9ad6e1aa7ee84b49c87cb71c407ce61ea567c63da005a6ccf351876947b",
+   "eth": "796883973322576650",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "125488782994409963778"
+   },
+   "pair": "KOR",
+   "tok": "125488782994409963778",
+   "estSwapForEth": "63497346692045",
+   "estSwapForTok": "1555227110010300879",
+   "estEthToProvide": "63502406693837",
+   "estTokToProvide": "1574743465741811532",
+   "priceEthPerTok": 0.006350240669383771
+  },
+  {
+   "team": "haw-C",
+   "addr": "0xE476a9Cc176c4F556Cf31aAaeaf3984f8E1FC0a1",
+   "flags": [],
+   "codeSize": 8367,
+   "codeHash": "0x7dae7b01579b44db5dd70615b36672275290f8097415ce4a0b685c15296f593f",
+   "eth": "796884069189588305",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "125488767897816761520"
+   },
+   "pair": "KOR",
+   "tok": "125488767897816761520",
+   "estSwapForEth": "63497361969197",
+   "estSwapForTok": "1555226738134192550",
+   "estEthToProvide": "63502421972815",
+   "estTokToProvide": "1574743086851212660",
+   "priceEthPerTok": 0.006350242197281566
+  },
+  {
+   "team": "haw-D",
+   "addr": "0x800C05d0C4D661d3e6403b2A2283cc11F2Bf7594",
+   "flags": [],
+   "codeSize": 7972,
+   "codeHash": "0xbe2064c61f7cae71e0930ef345b4656db49919d2c4ac1ec67a6a61ae2e5e66bc",
+   "eth": "251996868974230818",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "39683032732532082741"
+   },
+   "pair": "KOR",
+   "tok": "39683032732532082741",
+   "estSwapForEth": "63486423592848",
+   "estSwapForTok": "1514637670591215353",
+   "estEthToProvide": "63502421972815",
+   "estTokToProvide": "1574743086851212697",
+   "priceEthPerTok": 0.006350242197281566
+  },
+  {
+   "team": "haw-E",
+   "addr": "0x71bA714C442BB03Ad949FEd31bC2cB6E7001B9Cd",
+   "flags": [],
+   "codeSize": 9263,
+   "codeHash": "0x76168d62c65e3b841f3c10c1169ef3fae65252c3f1e959ae5b842b0c15d80d8c",
+   "eth": "79688394170074442",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "12548878797403752396"
+   },
+   "pair": "KOR",
+   "tok": "12548878797403752396",
+   "estSwapForEth": "63451837903355",
+   "estSwapForTok": "1399164174308611857",
+   "estEthToProvide": "63502401654051",
+   "estTokToProvide": "1574743590719294537",
+   "priceEthPerTok": 0.006350240165405155
+  },
+  {
+   "team": "haw-F",
+   "addr": "0xd477581bD1ad0b98232A898cb92b608EE0A2D212",
+   "flags": [],
+   "codeSize": 7674,
+   "codeHash": "0x5349b3b1d8705cf7eeaf2ce0ee9071f30d217c942d087c103b933218314c1ee2",
+   "eth": "75599005253387876",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "11904918549965545360"
+   },
+   "pair": "KOR",
+   "tok": "11904918549965545360",
+   "estSwapForEth": "63449032350797",
+   "estSwapForTok": "1390777674895277726",
+   "estEthToProvide": "63502328836686",
+   "estTokToProvide": "1574745396459041522",
+   "priceEthPerTok": 0.00635023288366863
+  },
+  {
+   "team": "haw-G",
+   "addr": "0xa153865001e2793e6E9092418ED68A30594A88d5",
+   "flags": [],
+   "codeSize": 7959,
+   "codeHash": "0x933edbf02878d9a824317ae879bd3f5c2116b40211801f8570a085b75b843f54",
+   "eth": "2519964076242386",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "0",
+    "KOR": "396831053834361726"
+   },
+   "pair": "KOR",
+   "tok": "396831053834361726",
+   "estSwapForEth": "61941291169685",
+   "estSwapForTok": "316958620182768552",
+   "estEthToProvide": "63502189455521",
+   "estTokToProvide": "1574748852872901107",
+   "priceEthPerTok": 0.006350218945552142
+  },
+  {
+   "team": "kor-A",
+   "addr": "0xA0b176a900EF0D8aCa48ae68b67F44708ff31390",
+   "flags": [],
+   "codeSize": 7932,
+   "codeHash": "0x993b5a1cfd6899b042bf121c3e683611c7662239c9124bef27d77e8820e7850a",
+   "eth": "821456694483664789",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "121734962623752244921",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "121734962623752244921",
+   "estSwapForEth": "67473567429837",
+   "estSwapForTok": "1464116693405779180",
+   "estEthToProvide": "67479110091202",
+   "estTokToProvide": "1481940112500635605",
+   "priceEthPerTok": 0.00674791100912029
+  },
+  {
+   "team": "kor-B",
+   "addr": "0xC6b80a957D30e2d379ECa592bDF9738E0C52EAa1",
+   "flags": [],
+   "codeSize": 8367,
+   "codeHash": "0x7dae7b01579b44db5dd70615b36672275290f8097415ce4a0b685c15296f593f",
+   "eth": "821458541935494477",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "121734688843070743515",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "121734688843070743515",
+   "estSwapForEth": "67473870913117",
+   "estSwapForTok": "1464110147448759539",
+   "estEthToProvide": "67479413611878",
+   "estTokToProvide": "1481933446771925255",
+   "priceEthPerTok": 0.0067479413611878855
+  },
+  {
+   "team": "kor-C",
+   "addr": "0xC211e5B66b863ffF378c5B81FdB92e608e9a5308",
+   "flags": [],
+   "codeSize": 8397,
+   "codeHash": "0x7476fa751c13f94287a823470b16405bb749c2afcc6e4e16a2f7a10a3cbeaa03",
+   "eth": "821458541935494483",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "121734688843070742540",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "121734688843070742540",
+   "estSwapForEth": "67473870913117",
+   "estSwapForTok": "1464110147448759432",
+   "estEthToProvide": "67479413611878",
+   "estTokToProvide": "1481933446771925233",
+   "priceEthPerTok": 0.0067479413611878855
+  },
+  {
+   "team": "kor-D",
+   "addr": "0x35b5D9c15CC684522C18E4f2FF9E297F76870819",
+   "flags": [],
+   "codeSize": 7972,
+   "codeHash": "0x732734cf120c91ac5472cbeb14efa1504c5dadb98e16277c4d155a0082d58c61",
+   "eth": "259767415376145476",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "38495975276652435552",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "38495975276652435552",
+   "estSwapForEth": "67461585769430",
+   "estSwapForTok": "1427006120178608082",
+   "estEthToProvide": "67479110091202",
+   "estTokToProvide": "1481940112500635564",
+   "priceEthPerTok": 0.006747911009120289
+  },
+  {
+   "team": "kor-E",
+   "addr": "0x1e534a94fE96687fbB7e72C130A9716Fd3074f57",
+   "flags": [],
+   "codeSize": 9263,
+   "codeHash": "0x76168d62c65e3b841f3c10c1169ef3fae65252c3f1e959ae5b842b0c15d80d8c",
+   "eth": "85446821837194502",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "12662626066249597176",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "12662626066249597176",
+   "estSwapForEth": "67426294590007",
+   "estSwapForTok": "1326668172131334496",
+   "estEthToProvide": "67479542861129",
+   "estTokToProvide": "1481930608300007020",
+   "priceEthPerTok": 0.006747954286112947
+  },
+  {
+   "team": "kor-F",
+   "addr": "0xe96D9760A4c0e2F4113F281a5AB0C92ad76181eC",
+   "flags": [],
+   "codeSize": 7566,
+   "codeHash": "0xf0593d20970cbc0ea8ffc1f3c2f061c21602ae73cc8e068c62400dbb44c19f59",
+   "eth": "25976824836982958",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "3849585183237289316",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "3849585183237289316",
+   "estSwapForEth": "67304706603714",
+   "estSwapForTok": "1070018046528677002",
+   "estEthToProvide": "67479542861129",
+   "estTokToProvide": "1481930608300007309",
+   "priceEthPerTok": 0.006747954286112946
+  },
+  {
+   "team": "kor-G",
+   "addr": "0x6fA05B72bdC4f0DBbef1A83C4359BD151b1A5a4c",
+   "flags": [
+    "estimateSwapForEth REVERTS",
+    "estimateSwapForERC20Token REVERTS",
+    "estimateEthToProvide REVERTS"
+   ],
+   "codeSize": 9511,
+   "codeHash": "0x6ffb85b1e3a99f275b04f0706ee2a6622ee431c48ffa94d4ccc8472370d0fa4f",
+   "eth": "616495811020982",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "3355478060110353174",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "3355478060110353174",
+   "estSwapForEth": "REVERT",
+   "estSwapForTok": "REVERT",
+   "estEthToProvide": "REVERT",
+   "estTokToProvide": "REVERT",
+   "priceEthPerTok": 0.0001837281603327506
+  },
+  {
+   "team": "kor-H",
+   "addr": "0xE8C9FDf67d0929385EcA42105361B50C80B49D45",
+   "flags": [],
+   "codeSize": 7959,
+   "codeHash": "0x61e9ebc4414a9b67e01ce8aad97e05a21292d3ee77bd654cb644adfb0da79189",
+   "eth": "2597635535152838",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "384965475898127653",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "384965475898127653",
+   "estSwapForEth": "65768673306090",
+   "estSwapForTok": "305585500409110799",
+   "estEthToProvide": "67477103734887",
+   "estTokToProvide": "1481984176334719347",
+   "priceEthPerTok": 0.006747710373488772
+  },
+  {
+   "team": "kor-dust",
+   "addr": "0xfb44f24C9133b2a314A87072657613595023C617",
+   "flags": [],
+   "codeSize": 10820,
+   "codeHash": "0x6c5e8773d72bc8412e40d224353abc93f98db7a37cbed6d9fd1a0ae062b0b2f8",
+   "eth": "2592141",
+   "tokenBals": {
+    "ASA": "0",
+    "HAW": "385785450",
+    "KOR": "0"
+   },
+   "pair": "HAW",
+   "tok": "385785450",
+   "estSwapForEth": "2592141",
+   "estSwapForTok": "385785450",
+   "estEthToProvide": "67191258768312",
+   "estTokToProvide": "1488288831510322933",
+   "priceEthPerTok": 0.006719125876831281
+  }
+ ]
+}
